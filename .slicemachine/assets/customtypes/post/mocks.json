@@ -1,0 +1,24 @@
+{
+  "id": "mock-doc-id",
+  "url": null,
+  "type": "post",
+  "href": null,
+  "tags": [],
+  "first_publication_date": "1970-01-01T00:00:01+0000",
+  "last_publication_date": "1970-01-01T00:00:01+0000",
+  "slugs": [],
+  "linked_documents": [],
+  "lang": "en-us",
+  "alternate_languages": [],
+  "data": {
+    "title": "daily",
+    "content": [
+      {
+        "type": "paragraph",
+        "text": "Proident sint duis pariatur fugiat dolor. Nostrud reprehenderit excepteur Lorem et exercitation aliquip esse minim laboris esse aute.",
+        "spans": []
+      }
+    ],
+    "slices": []
+  }
+}
